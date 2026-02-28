@@ -49,10 +49,6 @@ I'm a final-year B.Tech student specializing in **Data Science & Artificial Inte
 ## 📊 GitHub Statistics
 
 <div align="center">
-  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yashmishra123455&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yashmishra123455&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yashmishra123455&theme=radical&hide_border=true&background=0D1117&stroke=F85D7F&ring=F85D7F&fire=F8D866&currStreakLabel=F8D866)
 
