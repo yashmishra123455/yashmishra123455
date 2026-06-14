@@ -82,29 +82,6 @@
 
 ---
 
-# 🚀 Featured Projects
-
-### 🕺 Human Pose & Gesture Recognition
-- Real-time gesture recognition using LSTM & OpenCV
-- Automated alert system with geolocation support
-- Achieved ~78% classification accuracy
-
-### 🥗 NutriScan – Personal Food Companion
-- OCR-powered nutrition scanner using Tesseract.js
-- Open Food Facts API Integration
-- 90%+ text extraction accuracy
-
-### 🌿 Plant Disease Detection
-- CNN-based disease classification
-- ResNet & EfficientNet-B2
-- Accuracy up to 99.89%
-
-### ♟️ MoveLedger – AI Chess Engine
-- AI-powered chess web application
-- Multiplayer & Single-player support
-- Smart move prediction system
-
----
 
 # 📚 Research Publication
 
