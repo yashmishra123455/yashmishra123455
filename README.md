@@ -16,12 +16,20 @@
 
 ## 🌸 About Me
 
-* 🎓 B.Tech CSE (Data Science & AI)
-* 📊 Passionate about Data Analytics & Machine Learning
-* 🤖 Building AI and Computer Vision Projects
-* 📚 Published Research Author
-* 🏆 SIH 2024 Inter-Round Winner
-* 💼 Open to Data Science, Data Analytics & AI Opportunities
+🎓 **Computer Science & Engineering undergraduate specializing in Data Science & Artificial Intelligence**, with a strong interest in transforming data into meaningful insights and building intelligent, real-world solutions.
+
+📊 **Passionate about Data Analytics and Machine Learning**, with hands-on experience in data preprocessing, exploratory data analysis, visualization, predictive modeling, and extracting actionable insights from complex datasets.
+
+🤖 **AI & Computer Vision Developer** focused on developing practical applications using machine learning, deep learning, computer vision, and AI-driven technologies to solve real-world problems.
+
+📚 **Published Research Author** with experience in exploring and applying machine learning methodologies to research-oriented problems, particularly in areas involving intelligent and data-driven systems.
+
+🏆 **Smart India Hackathon (SIH) 2024 Inter-Round Winner**, with experience in collaborative problem-solving, innovation, project development, and presenting technology-driven solutions to real-world challenges.
+
+💼 **Actively seeking opportunities in Data Science, Data Analytics, Machine Learning, and Artificial Intelligence**, where I can contribute my technical skills, continuously learn, and build impactful solutions.
+
+🚀 **Currently focused on strengthening my expertise in Python, SQL, Data Analytics, Machine Learning, Deep Learning, and AI while continuously building and exploring new projects.**
+
 
 ### 📫 Reach Me
 
