@@ -82,7 +82,6 @@
 
 ---
 
-
 # 📚 Research Publication
 
 ### Crop Recommendation Based on Soil Nutrients
@@ -109,31 +108,114 @@
 
 ---
 
-# 📈 GitHub Stats
+# 📊 GitHub Stats
 
 <p align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=yashmishra123455&show_icons=true&theme=tokyonight"/>
+<img
+width="48%"
+src="https://github-stats-extended.vercel.app/api?username=yashmishra123455&show_icons=true&hide_border=true&theme=tokyonight&include_all_commits=true&count_private=true"
+/>
 
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=yashmishra123455&theme=tokyonight"/>
-
-</p>
-
-<p align="center">
-
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashmishra123455&layout=compact&theme=tokyonight"/>
-
-</p>
+<img
+width="48%"
+src="https://streak-stats.demolab.com/?user=yashmishra123455&theme=tokyonight&hide_border=true"
+/>
 
 </p>
 
 ---
 
-#  A Little Thought
+# 🔥 GitHub Contributions
 
 <p align="center">
 
-> ### "Every dataset tells a story. Every model learns a pattern. Every project teaches something new."                                                                     
+<img
+width="95%"
+src="https://github-readme-activity-graph.vercel.app/graph?username=yashmishra123455&theme=tokyo-night&hide_border=true&area=true"
+/>
+
+</p>
+
+---
+
+# 💻 Most Used Languages
+
+<p align="center">
+
+<img
+width="45%"
+src="https://github-stats-extended.vercel.app/api/top-langs/?username=yashmishra123455&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"
+/>
+
+</p>
+
+---
+
+# 📈 GitHub Overview
+
+<p align="center">
+
+<img
+width="95%"
+src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yashmishra123455&theme=tokyonight"
+/>
+
+</p>
+
+<p align="center">
+
+<img
+width="48%"
+src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=yashmishra123455&theme=tokyonight"
+/>
+
+<img
+width="48%"
+src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=yashmishra123455&theme=tokyonight"
+/>
+
+</p>
+
+---
+
+# 🌟 GitHub Activity
+
+<p align="center">
+
+<img
+width="48%"
+src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=yashmishra123455&theme=tokyonight"
+/>
+
+<img
+width="48%"
+src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=yashmishra123455&theme=tokyonight&utcOffset=5.5"
+/>
+
+</p>
+
+---
+
+# 🧠 My GitHub Journey
+
+<p align="center">
+
+<img
+width="70%"
+src="https://github-stats-extended.vercel.app/api?username=yashmishra123455&show=prs_merged,prs_merged_percentage,repositories,issues,contribs&hide_rank=false&theme=tokyonight&hide_border=true"
+/>
+
+</p>
+
+---
+
+# 💡 A Little Thought
+
+<p align="center">
+
+> ### "Every dataset tells a story. Every model learns a pattern. Every project teaches something new."
+
 <br>
 
 ✨ **Learn • Build • Analyze • Improve • Repeat** ✨
@@ -141,6 +223,7 @@
 </p>
 
 ---
+
 # 🤝 Connect With Me
 
 <p align="center">
@@ -163,7 +246,9 @@
 
 <p align="center">
 
-<img src="https://komarev.com/ghpvc/?username=yashmishra123455&label=Profile%20Views&color=0e75b6&style=flat"/>
+<img
+src="https://komarev.com/ghpvc/?username=yashmishra123455&label=Profile%20Views&color=0e75b6&style=flat"
+/>
 
 </p>
 
