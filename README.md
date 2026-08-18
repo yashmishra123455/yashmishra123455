@@ -1,3 +1,7 @@
+<p align="center">
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="100%" />
+</p>
+
 <h1 align="center">Hey there 👋, I'm Yash Mishra</h1>
 
 <h3 align="center">
@@ -10,38 +14,22 @@
 
 ---
 
-<table>
-<tr>
-
-<td width="60%">
-
 ## 🌸 About Me
 
-- 🎓 B.Tech CSE (Data Science & AI)
-- 📊 Passionate about Data Analytics & Machine Learning
-- 🤖 Building AI and Computer Vision Projects
-- 📚 Published Research Author
-- 🏆 SIH 2024 Inter-Round Winner
-- 💼 Open to Data Science, Data Analytics & AI Opportunities
+* 🎓 B.Tech CSE (Data Science & AI)
+* 📊 Passionate about Data Analytics & Machine Learning
+* 🤖 Building AI and Computer Vision Projects
+* 📚 Published Research Author
+* 🏆 SIH 2024 Inter-Round Winner
+* 💼 Open to Data Science, Data Analytics & AI Opportunities
 
 ### 📫 Reach Me
 
-📧 myash7166@gmail.com
+📧 [myash7166@gmail.com](mailto:myash7166@gmail.com)
 
 🌐 [LinkedIn](https://www.linkedin.com/in/yash-mishra-2352502bb/)
 
 💻 [GitHub](https://github.com/yashmishra123455)
-
-</td>
-
-<td width="40%" align="center">
-
-<img src="https://media1.tenor.com/m/Txr7RYfzW-EAAAAd/anime-boy.gif" width="320">
-
-</td>
-
-</tr>
-</table>
 
 ---
 
@@ -49,24 +37,24 @@
 
 ### 🌱 Languages
 
-![Python](https://img.shields.io/badge/PYTHON-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
-![SQL](https://img.shields.io/badge/SQL-005C84?style=for-the-badge&logo=postgresql&logoColor=white)
+![Python](https://img.shields.io/badge/PYTHON-FFD43B?style=for-the-badge\&logo=python\&logoColor=blue)
+![SQL](https://img.shields.io/badge/SQL-005C84?style=for-the-badge\&logo=postgresql\&logoColor=white)
 
 ---
 
 ### ⚙️ Machine Learning & AI
 
-![TensorFlow](https://img.shields.io/badge/TENSORFLOW-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Keras](https://img.shields.io/badge/KERAS-D00000?style=for-the-badge&logo=keras&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/SCIKIT--LEARN-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OPENCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TENSORFLOW-FF6F00?style=for-the-badge\&logo=tensorflow\&logoColor=white)
+![Keras](https://img.shields.io/badge/KERAS-D00000?style=for-the-badge\&logo=keras\&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/SCIKIT--LEARN-F7931E?style=for-the-badge\&logo=scikitlearn\&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OPENCV-5C3EE8?style=for-the-badge\&logo=opencv\&logoColor=white)
 
 ---
 
 ### 📊 Data Analytics
 
-![Pandas](https://img.shields.io/badge/PANDAS-150458?style=for-the-badge&logo=pandas)
-![NumPy](https://img.shields.io/badge/NUMPY-013243?style=for-the-badge&logo=numpy)
+![Pandas](https://img.shields.io/badge/PANDAS-150458?style=for-the-badge\&logo=pandas)
+![NumPy](https://img.shields.io/badge/NUMPY-013243?style=for-the-badge\&logo=numpy)
 ![Matplotlib](https://img.shields.io/badge/MATPLOTLIB-11557C?style=for-the-badge)
 ![Seaborn](https://img.shields.io/badge/SEABORN-43B02A?style=for-the-badge)
 ![IBM Cognos](https://img.shields.io/badge/IBM_COGNOS-052FAD?style=for-the-badge)
@@ -75,10 +63,10 @@
 
 ### 🛠 Tools & Platforms
 
-![GitHub](https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github)
-![Flask](https://img.shields.io/badge/FLASK-000000?style=for-the-badge&logo=flask)
-![Jupyter](https://img.shields.io/badge/JUPYTER-F37626?style=for-the-badge&logo=jupyter)
-![Canva](https://img.shields.io/badge/CANVA-00C4CC?style=for-the-badge&logo=canva)
+![GitHub](https://img.shields.io/badge/GITHUB-181717?style=for-the-badge\&logo=github)
+![Flask](https://img.shields.io/badge/FLASK-000000?style=for-the-badge\&logo=flask)
+![Jupyter](https://img.shields.io/badge/JUPYTER-F37626?style=for-the-badge\&logo=jupyter)
+![Canva](https://img.shields.io/badge/CANVA-00C4CC?style=for-the-badge\&logo=canva)
 
 ---
 
